@@ -126,9 +126,9 @@ map = Item("map")
 map.set_description("dusty, has a lot of blue")
 DustyGrove.set_item(map)
 
-jack-o-lantern = Item("jack o'lantern")
-jack-o-lantern.set_description("a glowing jack o'lantern, sitting on the floor")
-DeadMarshes.set_item(jack-o-lantern)
+jackolantern = Item("jack o'lantern")
+jackolantern.set_description("a glowing jack o'lantern, sitting on the floor")
+DeadMarshes.set_item(jackolantern)
 
 inhailer = Item("inhailer")
 inhailer.set_description("medical grade goodness")
